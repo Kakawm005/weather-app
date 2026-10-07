@@ -58,13 +58,8 @@ Aplicação web de previsão do tempo onde o usuário digita o nome de uma cidad
    cd NOME-DO-REPOSITORIO
    ```
 
-3. Configure sua chave de API no arquivo JavaScript dentro da pasta `js/`:
 
-   ```js
-   const apiKey = "SUA_CHAVE_AQUI";
-   ```
-
-4. Abra o `index.html` no navegador (ou use a extensão **Live Server** do VS Code).
+3. Abra o `index.html` no navegador (ou use a extensão **Live Server** do VS Code).
 
 ---
 
