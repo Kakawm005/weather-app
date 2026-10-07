@@ -58,17 +58,17 @@ body {
     height: 20px;
 }
 
-.temp img {
-    height: 200px;
+#weather-informations img {
+    height: 250px;
 }
 
-.temp h1 {
+#weather-informations #temp {
     font-weight: normal;
-    font-size: 70px;
+    font-size: 65px;
     margin-top: -25px;
 }
 
-.temp p {
+#weather-informations p {
     font-size: 35px;
 }
 
