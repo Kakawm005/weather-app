@@ -1,6 +1,3 @@
-
-
-
 async function buscarClima() {
     const cidade = document.getElementById('response').value;
 
@@ -14,7 +11,6 @@ async function buscarClima() {
     document.getElementById("temp").textContent = `${weather_dados.current.temperature_2m}°c`;
     document.getElementById("humidity").textContent = `${weather_dados.current.relative_humidity_2m}%`;
     document.getElementById("windspeed").textContent = `${weather_dados.current.wind_speed_10m} km/h`;
-    document.getElementById('teste').textContent = `${weather_dados.current.cloud_cover}`;
 
     const imagem = document.getElementById('img_weather');
 
