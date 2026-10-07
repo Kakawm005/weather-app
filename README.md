@@ -2,7 +2,7 @@
 
 Aplicação web de previsão do tempo onde o usuário digita o nome de uma cidade e recebe as condições climáticas atuais: **temperatura**, **umidade** e **velocidade do vento**.
 
-🔗 **Acesse o projeto:** [https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)
+🔗 **Acesse o projeto:** https://weather-app-ten-khaki-83.vercel.app/
 
 ---
 
