@@ -8,7 +8,7 @@ Aplicação web de previsão do tempo onde o usuário digita o nome de uma cidad
 
 ## 📸 Preview
 
-![Preview do projeto](images/preview.png)
+![Preview do projeto](images/clima.png)
 
 ---
 
